@@ -9,5 +9,5 @@
 ```bash
 yarn create-react-app . --template typescript
 
-yarn add -D '@testing-library/jest-dom';
+yarn add -D '@testing-library/jest-dom'
 ```

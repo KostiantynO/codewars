@@ -5,9 +5,9 @@ const tests = [
     text: 'The quick brown fox jumps over the lazy dog.',
     esrever: 'ehT kciuq nworb xof spmuj revo eht yzal .god',
   },
-  // { text: 'apple', esrever: 'elppa' },
-  // { text: 'a b c d', esrever: 'a b c d' },
-  // { text: 'double  spaced  words', esrever: 'elbuod  decaps  sdrow' },
+  { text: 'apple', esrever: 'elppa' },
+  { text: 'a b c d', esrever: 'a b c d' },
+  { text: 'double  spaced  words', esrever: 'elbuod  decaps  sdrow' },
 ];
 
 type EntityId = string | number;
